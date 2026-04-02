@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Build a 3D city viewer of Weimar using OSM + Overpass data. Show 3D buildings and streets in monochromatic colors. Include full orbit/pan camera controls for navigation. When you click on the ground, the app calculates a 360deg 2D isovist - casting rays outward from that point and stopping each one at the nearest building edge or a maximum radius - then fills the visible area with a semi-transparent blue polygon showing exactly what can be seen from that spot.
-=======
-Build a 3D city viewer for city of Weimar using OSM data. Show 3d buildings and streets. Include full orbit/pan camera controls for navigation. When you click on the ground, the app calculates a 360deg 2D isovist - casting rays outward from that point and stopping each one at the nearest building edge or a maximum radius — then fills the visible area with a semi-transparent blue polygon showing exactly what can be seen from that spot.
->>>>>>> 4c6efcd67374a282ba2cd732c788ba2f3207dea3
