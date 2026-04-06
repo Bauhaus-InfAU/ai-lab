@@ -50,6 +50,8 @@ The basic cycle: make changes → commit → push → your site updates automati
 - **MCP server** — a plugin that provides a specific connection (e.g. a Notion MCP server lets Claude read your Notion pages)
 - **Tools** — individual actions Claude Code can perform (read a file, run a command, search the web); MCP servers add extra tools
 - **Plan mode** — press `Shift+Tab` to toggle; Claude will research and write a plan but won't change any files until you approve. Use it when you want to think through a bigger change before committing to it
+- **Agent** — when Claude Code works on a task, it acts as an agent: it reads files, runs commands, and makes changes step by step on its own
+- **Subagents** — Claude can spawn smaller agents to handle parts of a task in parallel (like sending assistants to research different things at the same time); you'll see these noted in the output
 - **Context window** — the amount of text Claude can "see" at once; very long conversations may get compressed, so starting fresh sometimes helps
 - **Permissions** — Claude Code asks before running commands or editing files; you approve or deny each action
 
