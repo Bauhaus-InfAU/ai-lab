@@ -17,6 +17,6 @@ You are helping a student from an urban design university studio build a simple 
 - **.gitignore** — ignore node_modules, dist, .env, .DS_Store, etc.
 
 Backend (only if absolutely necessary):
+
 - **Hono** — API server
 - **SQLite (via better-sqlite3)** — database
-
