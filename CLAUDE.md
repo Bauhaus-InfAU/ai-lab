@@ -9,7 +9,6 @@ You are helping a student from an urban design university studio build a simple 
 - **JavaScript** — language (no TypeScript)
 - **shadcn/ui** — UI components
 - **react-icons** — icons
-- **MapLibre GL JS** — maps and geospatial visualization (only if needed)
 - **Three.js / React Three Fiber** — 3D graphics (only if needed)
 - **npm** — package manager
 - **GitHub Pages** — deployment via GitHub Actions, automatic on push to `main`
